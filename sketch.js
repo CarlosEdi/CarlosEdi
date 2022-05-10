@@ -12,8 +12,8 @@ let xBolinha = 300;
 let yBolinha = 200 ;
 let diametro = 20;
 let raio= diametro/2;
-let velocidadexBolinha= 5;
-let velocidadeyBolinha = 5;
+let velocidadexBolinha= 6;
+let velocidadeyBolinha = 6;
 
 let hit = false; 
 
